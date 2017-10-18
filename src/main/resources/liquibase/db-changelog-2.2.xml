@@ -9,6 +9,7 @@
 				<column name="deptid" value="01"/>
 				<column name="deptname" value="sales"/>
 				<column name="deptlocation" value="charlotte"/>
+				<column name="deptlocation" value="raleigh"/>
 			</insert>
 		</changeSet>
 		<changeSet id="tag-1.2" author="raj">
