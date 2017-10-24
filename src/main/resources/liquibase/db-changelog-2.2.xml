@@ -15,4 +15,5 @@
 		<changeSet id="tag-1.2" author="raj">
 			<tagDatabase tag="1.2insert" />
 		</changeSet>
+	<rollback></rollback>
 </databaseChangeLog>
