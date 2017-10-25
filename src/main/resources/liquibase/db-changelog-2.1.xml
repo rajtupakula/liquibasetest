@@ -31,7 +31,4 @@
                            <sql>DROP TABLE `liquibasedemo`;</sql>
                           </rollback>
 			</changeSet>
-			<changeSet id="tag-1.1" author="raj">
-				<tagDatabase tag="1.1" />
-			</changeSet>
 </databaseChangeLog>
