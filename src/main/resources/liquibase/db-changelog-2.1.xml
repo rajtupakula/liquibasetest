@@ -28,7 +28,7 @@
 				</column>
 			</createTable>
 				<rollback>
-                           <sql>DROP TABLE `liquibasedemo`;</sql>
+                           <sql>drop table liquibasedemo</sql>
                           </rollback>
 			</changeSet>
 </databaseChangeLog>
